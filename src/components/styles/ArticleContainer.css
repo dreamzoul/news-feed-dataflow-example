@@ -1,0 +1,19 @@
+.article-detail .go-back-btn {
+  position: fixed;
+  top: 45%;
+  left: 0;
+}
+
+.article-detail .title {
+  text-align: center;
+  color: #13404d;
+}
+
+.article-detail .meta-article.date-publishing {
+  text-align: right;
+}
+
+.article-detail .img-container {
+  padding: 0 10%;
+}
+/*# sourceMappingURL=ArticleContainer.css.map */

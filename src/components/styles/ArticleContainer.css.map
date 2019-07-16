@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,eADa,CACb,YAAY,CAAC;EACX,QAAQ,EAAE,KAAK;EACf,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,CAAC;CAAG;;AAJd,AAKE,eALa,CAKb,MAAM,CAAC;EACL,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,OAAO;CAAG;;AAPrB,AASI,eATW,CAQb,aAAa,AACV,gBAAgB,CAAC;EAChB,UAAU,EAAE,KAAK;CAAG;;AAV1B,AAWE,eAXa,CAWb,cAAc,CAAC;EACb,OAAO,EAAE,KAAK;CAAG",
+    "sources": [
+        "ArticleContainer.sass"
+    ],
+    "names": [],
+    "file": "ArticleContainer.css"
+}

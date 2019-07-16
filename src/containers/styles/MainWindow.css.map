@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EAET,UAAG,EAAE,GAAG;EAER,WAAI,EAAE,GAAG;EACT,YAAK,EAAE,GAAG;EACZ,WAAW,EAAE,8CAA8C;CAI5C;;AAVjB,AAOE,YAPU,CAOV,kBAAkB,CAAC;EACjB,QAAQ,EAAE,KAAK;EACf,GAAG,EAAE,GAAG;EACR,KAAK,EAAE,CAAC;CAAG",
+    "sources": [
+        "MainWindow.sass"
+    ],
+    "names": [],
+    "file": "MainWindow.css"
+}

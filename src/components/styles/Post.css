@@ -1,0 +1,17 @@
+.post-preview {
+  margin: 20px 20%;
+  border-radius: 3px;
+  border: 1px solid #e6e6e6;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.post-preview .img-container {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.post-preview .caption {
+  font-size: 16px;
+  text-align: center;
+}
+/*# sourceMappingURL=Post.css.map */
